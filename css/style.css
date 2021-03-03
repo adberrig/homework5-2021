@@ -107,7 +107,7 @@ header{
   margin-bottom: 25px;
     
   /*Req 6b*/
-  background-image: url("/images/header.jpg")
+  background-image: url("images/header.jpg")
 }
 /*Req 7a*/
 .about, .method, .client, .contacts{
