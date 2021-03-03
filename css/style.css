@@ -90,8 +90,8 @@ nav a:hover {
 /*Req 5*/
 .container{
   display: grid;
-  grid-template-columns: 1fr 3fr 3fr 1fr;
-  grid-template-rows: auto auto auto auto;
+  grid-column: 1fr 3fr 3fr 1fr;
+  grid-row: auto auto auto auto;
   grid-row-gap: 20px; 
 }
 
