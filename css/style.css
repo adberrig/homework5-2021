@@ -116,7 +116,7 @@ header{
 
 /*Req 8a, 8b, and 8c*/
 .about-image, .method-image, .client-image, .contact-image{
-  grid-column: span -1;
+  grid-column: span all;
   max-height: 650px;
   overflow: hidden;
 }
